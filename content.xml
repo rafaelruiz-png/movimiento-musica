@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508093852Z9TC6G</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508093852QVXW5H</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Nos movemos con la música.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje para 1º de ESO (EF).</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>R.R.R.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje elaborada dentro del Curso Competencia Digital Docente B2. Creación y puesta en práctica  de coreografías en EF.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778225359198</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mowlgseq-gyhm7nl0d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowlgseq-gyhm7nl0d</odePageId>
+      <odeBlockId>block-1778169037467-nhpf6utym</odeBlockId>
+      <blockName>1. Presentación y descripción del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowlgseq-gyhm7nl0d</odePageId>
+          <odeBlockId>block-1778169037467-nhpf6utym</odeBlockId>
+          <odeIdeviceId>idevice-1778169037465-wdjw8vqqw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Comenzamos nuestro proyecto</p>
+<p> </p>
+<p>1.Título descriptivo: “Nos movemos con la música”.</p>
+<p>2. Centro de interés o temática: El cuerpo, el movimiento y la música.</p>
+<p>3. Nivel al que va dirigido: 1º de ESO.</p>
+<p>4. Temporalización aproximada: 6 sesiones.</p>
+<p>5. Materia o materias implicadas: Educación Física.</p>
+<p>6. Descripción general de lo que se pretende que el alumnado aprenda o trabaje.</p>
+<p>A través de la expresión corporal, crear, adaptar o copiar coreografías con o sin materiales uniendo música y coordinación grupal (grupos de 4 o 5 personal, con cierta flexibilidad) para presentar al resto de compañeros/as en la última sesión.</p>
+<p>7. Justificación de la elección sobre la base de la rutina de pensamiento elaborada en la tarea 1.1.</p>
+<p>1. Descripción </p>
+<p>He diseñado una SdA titulada “Nos movemos con la música” de 6 sesiones para 1º de ESO. El núcleo es la expresión corporal, integrando el cuerpo, el ritmo y el movimiento.</p>
+<p>2. Sentimientos </p>
+<p>Una parte del alumnado es reacio a participar en este tipo de actividades, la mayor parte de estos por timidez. Esto ocurre cuando piensan “el baile no es lo mío” les preocupa el qué dirán. Al planificarla lo tengo en cuenta y para evitar este rechazo inicial no les hablo de baile sino de música y movimiento, de ritmo y secuencias de movimiento. Les muestro, entre otros, vídeos de grupos que coordinan bote de balón de baloncesto desarrollando coreografías de diferentes niveles de dificultad y animo, a quienes lo deseen, opten por utilizar algún material deportivo o  no, en este sentido, en lugar de las coreografías más tradicionales para reducir o eliminar ese rechazo inicial. </p>
+<p>3. Evaluación </p>
+<p>Lo positivo: El alumnado elige los agrupamientos y el nivel de dificultad (en un mismo grupo no necesariamente todos/as tienen que hacer los mismos pasos y elementos),<br />El reto: Conseguir que nadie se autoexcluya y crear un clima favorable a la actividad. <br />4. Análisis </p>
+<p>Integrar música y movimiento de esta forma permite conectar al alumno con su identidad (sus gustos, intereses y forma de relacionarse con los demás) y mejorando también la coordinación grupal.</p>
+<p>5. Conclusión </p>
+<p>Utilizamos  Metodologías Activas (Aprendizaje Cooperativo) que contribuyen a una mayor interacción del alumnado en busca de una meta común, contribuyendo a una coevaluación continua. Quizás se podrían añadir más sesiones, pero creo que está bien con 6 para mantener el interés sin que decaiga la motivación antes del producto final.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778169037465-wdjw8vqqw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Comenzamos nuestro proyecto</p>\n<p> </p>\n<p>1.Título descriptivo: “Nos movemos con la música”.</p>\n<p>2. Centro de interés o temática: El cuerpo, el movimiento y la música.</p>\n<p>3. Nivel al que va dirigido: 1º de ESO.</p>\n<p>4. Temporalización aproximada: 6 sesiones.</p>\n<p>5. Materia o materias implicadas: Educación Física.</p>\n<p>6. Descripción general de lo que se pretende que el alumnado aprenda o trabaje.</p>\n<p>A través de la expresión corporal, crear, adaptar o copiar coreografías con o sin materiales uniendo música y coordinación grupal (grupos de 4 o 5 personal, con cierta flexibilidad) para presentar al resto de compañeros/as en la última sesión.</p>\n<p>7. Justificación de la elección sobre la base de la rutina de pensamiento elaborada en la tarea 1.1.</p>\n<p>1. Descripción </p>\n<p>He diseñado una SdA titulada “Nos movemos con la música” de 6 sesiones para 1º de ESO. El núcleo es la expresión corporal, integrando el cuerpo, el ritmo y el movimiento.</p>\n<p>2. Sentimientos </p>\n<p>Una parte del alumnado es reacio a participar en este tipo de actividades, la mayor parte de estos por timidez. Esto ocurre cuando piensan “el baile no es lo mío” les preocupa el qué dirán. Al planificarla lo tengo en cuenta y para evitar este rechazo inicial no les hablo de baile sino de música y movimiento, de ritmo y secuencias de movimiento. Les muestro, entre otros, vídeos de grupos que coordinan bote de balón de baloncesto desarrollando coreografías de diferentes niveles de dificultad y animo, a quienes lo deseen, opten por utilizar algún material deportivo o  no, en este sentido, en lugar de las coreografías más tradicionales para reducir o eliminar ese rechazo inicial. </p>\n<p>3. Evaluación </p>\n<p>Lo positivo: El alumnado elige los agrupamientos y el nivel de dificultad (en un mismo grupo no necesariamente todos/as tienen que hacer los mismos pasos y elementos),<br />El reto: Conseguir que nadie se autoexcluya y crear un clima favorable a la actividad. <br />4. Análisis </p>\n<p>Integrar música y movimiento de esta forma permite conectar al alumno con su identidad (sus gustos, intereses y forma de relacionarse con los demás) y mejorando también la coordinación grupal.</p>\n<p>5. Conclusión </p>\n<p>Utilizamos  Metodologías Activas (Aprendizaje Cooperativo) que contribuyen a una mayor interacción del alumnado en busca de una meta común, contribuyendo a una coevaluación continua. Quizás se podrían añadir más sesiones, pero creo que está bien con 6 para mantener el interés sin que decaiga la motivación antes del producto final.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowlgseu-66mtq3im1</odePageId>
+  <odeParentPageId>page-mowlgseq-gyhm7nl0d</odeParentPageId>
+  <pageName>2. Información al alumnado sobre protección de datos y garantias de derechos digitales</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Información al alumnado sobre protección de datos y garantias de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Información al alumnado sobre protección de datos y garantias de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Información al alumnado sobre protección de datos y garantias de derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowlgseu-66mtq3im1</odePageId>
+      <odeBlockId>block-1778169412954-iaicl9xlf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowlgseu-66mtq3im1</odePageId>
+          <odeBlockId>block-1778169412954-iaicl9xlf</odeBlockId>
+          <odeIdeviceId>idevice-1778169412953-stbimp6a7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0.jpg" /><img src="{{context_path}}/content/resources/mceclip0.jpg" title="Protección datos y garantías derechos digitales" width="1366" height="762" alt="Información al alumnado protección datos y garantías derechos digitales" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778169412953-stbimp6a7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.jpg\" /><img src=\"{{context_path}}/content/resources/mceclip0.jpg\" title=\"Protección datos y garantías derechos digitales\" width=\"1366\" height=\"762\" alt=\"Información al alumnado protección datos y garantías derechos digitales\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowlgsev-urojn9eky</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Herramienta digital para el producto final</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Herramienta digital para el producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Herramienta digital para el producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Herramienta digital para el producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowlgsev-urojn9eky</odePageId>
+      <odeBlockId>block-1778170250106-wth36zy1v</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowlgsev-urojn9eky</odePageId>
+          <odeBlockId>block-1778170250106-wth36zy1v</odeBlockId>
+          <odeIdeviceId>idevice-1778170250105-zz1h7an31</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong> Herramienta digital para el producto final</strong></p>
+<p>He diseñado una SdA titulada “Nos movemos con la música” de 6 sesiones para 1º de ESO. El núcleo es la expresión corporal, integrando el cuerpo, el ritmo y el movimiento. El alumnado en los grupos que ellos mismos organicen utilizando un dispositivo para reproducir música y otro para grabar prepararan sus coreografías pudiendo ser originales, modificadas  de otras ya existentes o de creación propia, con o sin materiales (por ejemplo, balones, combas, etc.). Además disponemos de una aula de informática y de portátiles que pueden ser trasladados a cualquier aula y que utilizaremos (una u otra alternativa en función de la disponibilidad del momento) para la elaboración del producto final. Para éste he elegido Canvas por ser una plataforma con la que el alumnado está familiarizado y no le resultará difícil la realización de la tarea propuesta, consiguiendo una correcta y atractiva presentación del trabajo. </p>
+<p>Se comunica al alumnado que no puede sacar fotos ni vídeos de otros compañeros sin su consentimiento. Que las grabaciones que se realizarán serán de los ensayos y de puesta en escena final. Que serán exclusivamente utilizadas como parte del trabajo de Educación Física editado a través de Canvas (grabaciones de varios ensayos y del producto final correctamente editado) y no para compartirlas en redes sociales.</p>
+<p>A los padres/madres o tutores legales se les enviará una notificación a través de Séneca/IPasen en la que se les explica las características del trabajo que va a realizar  el alumnado (el objetivo de las grabaciones que serán realizadas por el propio alumnado, el número de sesiones con sus fechas concretas, y la conveniencia de que cada grupo disponga de dos dispositivos, un móvil o una tablet…), para que autoricen a sus hijos/as a traer los dispositivos exclusivamente con la finalidad y fechas indicadas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778170250105-zz1h7an31","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong> Herramienta digital para el producto final</strong></p>\n<p>He diseñado una SdA titulada “Nos movemos con la música” de 6 sesiones para 1º de ESO. El núcleo es la expresión corporal, integrando el cuerpo, el ritmo y el movimiento. El alumnado en los grupos que ellos mismos organicen utilizando un dispositivo para reproducir música y otro para grabar prepararan sus coreografías pudiendo ser originales, modificadas  de otras ya existentes o de creación propia, con o sin materiales (por ejemplo, balones, combas, etc.). Además disponemos de una aula de informática y de portátiles que pueden ser trasladados a cualquier aula y que utilizaremos (una u otra alternativa en función de la disponibilidad del momento) para la elaboración del producto final. Para éste he elegido Canvas por ser una plataforma con la que el alumnado está familiarizado y no le resultará difícil la realización de la tarea propuesta, consiguiendo una correcta y atractiva presentación del trabajo. </p>\n<p>Se comunica al alumnado que no puede sacar fotos ni vídeos de otros compañeros sin su consentimiento. Que las grabaciones que se realizarán serán de los ensayos y de puesta en escena final. Que serán exclusivamente utilizadas como parte del trabajo de Educación Física editado a través de Canvas (grabaciones de varios ensayos y del producto final correctamente editado) y no para compartirlas en redes sociales.</p>\n<p>A los padres/madres o tutores legales se les enviará una notificación a través de Séneca/IPasen en la que se les explica las características del trabajo que va a realizar  el alumnado (el objetivo de las grabaciones que serán realizadas por el propio alumnado, el número de sesiones con sus fechas concretas, y la conveniencia de que cada grupo disponga de dos dispositivos, un móvil o una tablet…), para que autoricen a sus hijos/as a traer los dispositivos exclusivamente con la finalidad y fechas indicadas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowlgsey-7tb2w95in</odePageId>
+  <odeParentPageId>page-mowlgsev-urojn9eky</odeParentPageId>
+  <pageName>4. Dos herramientas de curación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Dos herramientas de curación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Dos herramientas de curación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Dos herramientas de curación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowlgsey-7tb2w95in</odePageId>
+      <odeBlockId>block-1778170479682-3fey112hh</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowlgsey-7tb2w95in</odePageId>
+          <odeBlockId>block-1778170479682-3fey112hh</odeBlockId>
+          <odeIdeviceId>idevice-1778170479681-s22drp60w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> <br /> </p>
+<p>Curación del contenido a través de:</p>
+<p>Herramientas para del día a día de clase</p>
+<p><a href="https://padlet.com/rafaelruiz6/nos-movemos-con-la-musica-v2irggp5o3dlx1mr" title="herramienta para el día a día">https://www.symbaloo.com/shared/AAAAAcWqwm4AA41-5ERILQ==</a></p>
+<p>Herramientas para editar el eXeLearning del producto final</p>
+<p><a href="https://padlet.com/rafaelruiz6/nos-movemos-con-la-musica-v2irggp5o3dlx1mr" title="herramienta para editar el producto final">https://padlet.com/rafaelruiz6/nos-movemos-con-la-musica-v2irggp5o3dlx1mr</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778170479681-s22drp60w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> <br /> </p>\n<p>Curación del contenido a través de:</p>\n<p>Herramientas para del día a día de clase</p>\n<p><a href=\"https://padlet.com/rafaelruiz6/nos-movemos-con-la-musica-v2irggp5o3dlx1mr\" title=\"herramienta para el día a día\">https://www.symbaloo.com/shared/AAAAAcWqwm4AA41-5ERILQ==</a></p>\n<p>Herramientas para editar el eXeLearning del producto final</p>\n<p><a href=\"https://padlet.com/rafaelruiz6/nos-movemos-con-la-musica-v2irggp5o3dlx1mr\" title=\"herramienta para editar el producto final\">https://padlet.com/rafaelruiz6/nos-movemos-con-la-musica-v2irggp5o3dlx1mr</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowlgsez-scjrzceay</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Línea temporal de actividades y tareas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Línea temporal de actividades y tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Línea temporal de actividades y tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Línea temporal de actividades y tareas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowlgsez-scjrzceay</odePageId>
+      <odeBlockId>block-1778171622125-s4qnsh11p</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowlgsez-scjrzceay</odePageId>
+          <odeBlockId>block-1778171622125-s4qnsh11p</odeBlockId>
+          <odeIdeviceId>idevice-1778171622123-of4wwbs54</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778171622123-of4wwbs54" title="" href="{{context_path}}/content/resources/línea temporal.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/línea temporal.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778171622123-of4wwbs54","img_0":{"img":"{{context_path}}/content/resources/línea temporal.jpg","thumbnail":"{{context_path}}/content/resources/línea temporal.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowlgsf1-25x3ubfxm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Criterios de evaluación asociados a las actividades</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Criterios de evaluación asociados a las actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Criterios de evaluación asociados a las actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Criterios de evaluación asociados a las actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowlgsf1-25x3ubfxm</odePageId>
+      <odeBlockId>block-1778172053890-6rokwlur6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowlgsf1-25x3ubfxm</odePageId>
+          <odeBlockId>block-1778172053890-6rokwlur6</odeBlockId>
+          <odeIdeviceId>idevice-1778172053889-yrxlp8o9u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table width="929">
+<thead>
+<tr>
+<td width="273">
+<p><strong>TAREA </strong></p>
+</td>
+<td width="169">
+<p><strong>CRITERIO DE EVALUACIÓN</strong></p>
+</td>
+<td width="159">
+<p><strong>AGRUPAMIENTO</strong></p>
+</td>
+<td width="124">
+<p><strong>TIEMPO APROXIMADO</strong></p>
+</td>
+<td width="204">
+<p><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Visionado de vídeos de YouTube alojados en Padlet.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 1.6:</strong> Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte.</p>
+</td>
+<td width="159">
+<p>Individual</p>
+</td>
+<td width="124">
+<p>20’</p>
+</td>
+<td width="204">
+<p>Padlet/YouTube</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Búsqueda de otras coreografías o músicas (que les puedan servir) en Youtube.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 1.6:</strong> Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte.</p>
+</td>
+<td width="159">
+<p>Individual</p>
+</td>
+<td width="124">
+<p>10’</p>
+</td>
+<td width="204">
+<p>Youtube</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Organización/creación de los grupos por parte de los propios alumnos/as.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 3.2:</strong> Colaborar en la práctica de diferentes producciones motrices, especialmente a través de juegos, para alcanzar el logro individual y grupal, participando en la toma de decisiones y asumiendo distintos roles asignados y responsabilidades.</p>
+</td>
+<td width="159">
+<p>Libre</p>
+</td>
+<td width="124">
+<p>5’</p>
+</td>
+<td width="204">
+<p>_________</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Intercambio de propuestas entre los componentes de cada grupo con muestra de vídeos seleccionados  y primeros ensayos.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 2.1:</strong> Participar en el proceso de creación de proyectos motores de carácter individual, cooperativo o colaborativo, estableciendo mecanismos para reconducir los procesos de trabajo, utilizando con ayuda estrategias de autoevaluación y coevaluación e iniciando actitudes de superación, crecimiento y resiliencia.</p>
+</td>
+<td width="159">
+<p>libre</p>
+</td>
+<td width="124">
+<p>25’</p>
+</td>
+<td width="204">
+<p>Youtube para copiar o modificar coreografía o para utilizar la música en una de creación propia.</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Prueba práctica de las distintas propuestas para descarte o elección directa.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 2.1:</strong> Participar en el proceso de creación de proyectos motores de carácter individual, cooperativo o colaborativo, estableciendo mecanismos para reconducir los procesos de trabajo, utilizando con ayuda estrategias de autoevaluación y coevaluación e iniciando actitudes de superación, crecimiento y resiliencia.</p>
+</td>
+<td width="159">
+<p>Libre</p>
+</td>
+<td width="124">
+<p>1 sesión</p>
+</td>
+<td width="204">
+<p>Youtube para copiar o modificar coreografía o para utilizar la música en una de creación propia.</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Práctica de la coreografía elegida por partes, intercalada con ensayos completos. Grabación de ensayos.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 4.3:</strong> Utilizar intencionadamente y con progresiva autonomía el cuerpo como herramienta de expresión y comunicación a través de diversas técnicas expresivas, participando activamente en la creación y representación de composiciones individuales o colectivas con y sin base musical, prestando especial atención a la educación socio-afectiva y fomento de la creatividad.</p>
+</td>
+<td width="159">
+<p>libre</p>
+</td>
+<td width="124">
+<p>2 sesiones</p>
+</td>
+<td width="204">
+<p>-Youtube para copiar o modificar coreografía o para utilizar la música en una de creación propia.</p>
+<p>- Cámara del móvil o tablet</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Práctica y grabación de la coreografía completa.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 4.3:</strong> Utilizar intencionadamente y con progresiva autonomía el cuerpo como herramienta de expresión y comunicación a través de diversas técnicas expresivas, participando activamente en la creación y representación de composiciones individuales o colectivas con y sin base musical.</p>
+</td>
+<td width="159">
+<p>libre</p>
+</td>
+<td width="124">
+<p>1 sesión</p>
+</td>
+<td width="204">
+<p>-Youtube para copiar o modificar coreografía o para utilizar la música en una de creación propia.</p>
+<p>- Cámara del móvil o tablet</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Selección de las grabaciones (ensayos y coreografía completa), edición y subida a Padlet para compartirlas</p>
+</td>
+<td width="169">
+<p><strong>Criterio 1.6:</strong> Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte.</p>
+</td>
+<td width="159">
+<p>libre</p>
+</td>
+<td width="124">
+<p>30’</p>
+</td>
+<td width="204">
+<p>CapCut + Padlet</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Muestra al grupo de clase de la grabación de las coreografías completas. Visionado de las coreografías completas.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 3.2:</strong> Colaborar en la práctica de diferentes producciones motrices, especialmente a través de juegos, para alcanzar el logro individual y grupal, participando en la toma de decisiones y asumiendo distintos roles asignados y responsabilidades.</p>
+</td>
+<td width="159">
+<p>todo el grupo clase</p>
+</td>
+<td width="124">
+<p>30’</p>
+</td>
+<td width="204">
+<p>Padlet + Pizarra digital</p>
+</td>
+</tr>
+</thead>
+</table>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> <br /> </p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172053889-yrxlp8o9u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table width=\"929\">\n<thead>\n<tr>\n<td width=\"273\">\n<p><strong>TAREA </strong></p>\n</td>\n<td width=\"169\">\n<p><strong>CRITERIO DE EVALUACIÓN</strong></p>\n</td>\n<td width=\"159\">\n<p><strong>AGRUPAMIENTO</strong></p>\n</td>\n<td width=\"124\">\n<p><strong>TIEMPO APROXIMADO</strong></p>\n</td>\n<td width=\"204\">\n<p><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Visionado de vídeos de YouTube alojados en Padlet.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 1.6:</strong> Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte.</p>\n</td>\n<td width=\"159\">\n<p>Individual</p>\n</td>\n<td width=\"124\">\n<p>20’</p>\n</td>\n<td width=\"204\">\n<p>Padlet/YouTube</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Búsqueda de otras coreografías o músicas (que les puedan servir) en Youtube.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 1.6:</strong> Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte.</p>\n</td>\n<td width=\"159\">\n<p>Individual</p>\n</td>\n<td width=\"124\">\n<p>10’</p>\n</td>\n<td width=\"204\">\n<p>Youtube</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Organización/creación de los grupos por parte de los propios alumnos/as.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 3.2:</strong> Colaborar en la práctica de diferentes producciones motrices, especialmente a través de juegos, para alcanzar el logro individual y grupal, participando en la toma de decisiones y asumiendo distintos roles asignados y responsabilidades.</p>\n</td>\n<td width=\"159\">\n<p>Libre</p>\n</td>\n<td width=\"124\">\n<p>5’</p>\n</td>\n<td width=\"204\">\n<p>_________</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Intercambio de propuestas entre los componentes de cada grupo con muestra de vídeos seleccionados  y primeros ensayos.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 2.1:</strong> Participar en el proceso de creación de proyectos motores de carácter individual, cooperativo o colaborativo, estableciendo mecanismos para reconducir los procesos de trabajo, utilizando con ayuda estrategias de autoevaluación y coevaluación e iniciando actitudes de superación, crecimiento y resiliencia.</p>\n</td>\n<td width=\"159\">\n<p>libre</p>\n</td>\n<td width=\"124\">\n<p>25’</p>\n</td>\n<td width=\"204\">\n<p>Youtube para copiar o modificar coreografía o para utilizar la música en una de creación propia.</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Prueba práctica de las distintas propuestas para descarte o elección directa.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 2.1:</strong> Participar en el proceso de creación de proyectos motores de carácter individual, cooperativo o colaborativo, estableciendo mecanismos para reconducir los procesos de trabajo, utilizando con ayuda estrategias de autoevaluación y coevaluación e iniciando actitudes de superación, crecimiento y resiliencia.</p>\n</td>\n<td width=\"159\">\n<p>Libre</p>\n</td>\n<td width=\"124\">\n<p>1 sesión</p>\n</td>\n<td width=\"204\">\n<p>Youtube para copiar o modificar coreografía o para utilizar la música en una de creación propia.</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Práctica de la coreografía elegida por partes, intercalada con ensayos completos. Grabación de ensayos.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 4.3:</strong> Utilizar intencionadamente y con progresiva autonomía el cuerpo como herramienta de expresión y comunicación a través de diversas técnicas expresivas, participando activamente en la creación y representación de composiciones individuales o colectivas con y sin base musical, prestando especial atención a la educación socio-afectiva y fomento de la creatividad.</p>\n</td>\n<td width=\"159\">\n<p>libre</p>\n</td>\n<td width=\"124\">\n<p>2 sesiones</p>\n</td>\n<td width=\"204\">\n<p>-Youtube para copiar o modificar coreografía o para utilizar la música en una de creación propia.</p>\n<p>- Cámara del móvil o tablet</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Práctica y grabación de la coreografía completa.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 4.3:</strong> Utilizar intencionadamente y con progresiva autonomía el cuerpo como herramienta de expresión y comunicación a través de diversas técnicas expresivas, participando activamente en la creación y representación de composiciones individuales o colectivas con y sin base musical.</p>\n</td>\n<td width=\"159\">\n<p>libre</p>\n</td>\n<td width=\"124\">\n<p>1 sesión</p>\n</td>\n<td width=\"204\">\n<p>-Youtube para copiar o modificar coreografía o para utilizar la música en una de creación propia.</p>\n<p>- Cámara del móvil o tablet</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Selección de las grabaciones (ensayos y coreografía completa), edición y subida a Padlet para compartirlas</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 1.6:</strong> Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte.</p>\n</td>\n<td width=\"159\">\n<p>libre</p>\n</td>\n<td width=\"124\">\n<p>30’</p>\n</td>\n<td width=\"204\">\n<p>CapCut + Padlet</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Muestra al grupo de clase de la grabación de las coreografías completas. Visionado de las coreografías completas.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 3.2:</strong> Colaborar en la práctica de diferentes producciones motrices, especialmente a través de juegos, para alcanzar el logro individual y grupal, participando en la toma de decisiones y asumiendo distintos roles asignados y responsabilidades.</p>\n</td>\n<td width=\"159\">\n<p>todo el grupo clase</p>\n</td>\n<td width=\"124\">\n<p>30’</p>\n</td>\n<td width=\"204\">\n<p>Padlet + Pizarra digital</p>\n</td>\n</tr>\n</thead>\n</table>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> <br /> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowlgsf2-bhgmhkjkr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowlgsf2-bhgmhkjkr</odePageId>
+      <odeBlockId>block-1778172419406-0srh3t1d2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowlgsf2-bhgmhkjkr</odePageId>
+          <odeBlockId>block-1778172419406-0srh3t1d2</odeBlockId>
+          <odeIdeviceId>idevice-1778172419403-kdhh1y30u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>* Diana de Autoevaluación / Coevaluación del Grupo</strong><br /> </p>
+<p>- La diana (creada con Canva) quedará alojada en el Classroom del alumnado.</p>
+<p><a href="https://view.genially.com/69fc516d63141095bf09189e" title="">https://view.genially.com/69fc516d63141095bf09189e</a><br />https://classroom.google.com/c/ODYzMjM1ODgwMTQ1/a/ODYzMzgzMTY4ODUy/details<br /> <img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+<p>Instrucciones: Cada alumno/a debe desplazar la estrella correspondiente ( del 1 al 4) en cada área. El nivel 1, alrededor del centro de la diana (muy bajo) y el nivel 4 es el borde exterior (excelente). Luego comparamos lo que ha puesto cada componente del grupo, debatimos y ajustamos la diana, ya como grupo.</p>
+<p> </p>
+<p>Áreas de la Diana (Indicadores):<br />1.      Ritmo y Coordinación: ¿Hemos conseguido movernos a la vez y seguir el tempo de la música?</p>
+<p>2.      Creatividad y Materiales: ¿Hemos aportado pasos originales o usado materiales (balones, cintas, etc.) de forma creativa?</p>
+<p>3.      Uso de la Tecnología: ¿Hemos consultado el Padlet, buscado en YouTube o usado CapCut para mejorar la coreografía?</p>
+<p>4.      Trabajo en Equipo :¿Nos hemos escuchado, repartido roles y ayudado cuando alguien se perdía?</p>
+<p>5.      Actitud y Superación: ¿Hemos vencido la timidez y nos hemos esforzado por mejorar en cada ensayo?</p>
+<p> <br />Descripción de los Niveles para el Alumnado<br />Para que los alumnos sepan qué puntuación ponerse en cada eje, puedes facilitarles esta pequeña guía:</p>
+<p>Nivel<br />Descripción Visual<br />Significado<br />1. Muy bajo<br />Cerca del centro<br />No hemos trabajado en este aspecto o ha habido muchos conflictos.<br />2. Bajo<br />Primer anillo<br />Lo hemos intentado, pero nos ha costado mucho arrancar o coordinarnos.<br />3. Bueno<br />Segundo anillo<br />Hemos cumplido con la tarea y el resultado es satisfactorio para el grupo.<br />4. Excelente<br />Borde exterior<br />Hemos superado el reto, usado la tecnología y el grupo está muy unido.<br /> </p>
+<p>Momentos de Aplicación:<br />- En la sesión tercera: la Diana servirá al alumnado para "ver" en qué flojean y reaccionar a tiempo antes de la grabación final.</p>
+<p>-Tras la grabación final, para comparar y comprobar si las medidas adoptadas por el grupo has sido las adecuadas. Esta última la subimos al Padlet.</p>
+<p><strong>*Lo que voy a evaluar con la Rúbrica:</strong><br />·         La ejecución motriz: No se busca "baile profesional", sino la capacidad de coordinar el cuerpo con un ritmo externo y con el resto del grupo.</p>
+<p>·         La superación del rechazo inicial: Se valora positivamente la integración de materiales deportivos (como el bote de balón) para aquellos alumnos más tímidos.</p>
+<p>·         La alfabetización digital: El uso de herramientas (YouTube para inspirarse, CapCut para editar y Padlet para publicar) como medio para comunicar su trabajo.</p>
+<p>·         Colaboración La evidencia visual de que han colaborado para alcanzar un logro común (la coreografía terminada).</p>
+<p>Esta rúbrica la utilizaré durante el visionado de los vídeos en la Sesión 6, permitiendo dar un conocimiento de resultados inmediato.</p>
+<p>La rúbrica estará alojada en Classroom desde la primera sesión para que pueda ser consultada, sirva de orientación al alumnado y para resolver todas las dudas que puedan surgir desde el principio o durante el desarrollo de la situación de aprendizaje (en cualquiera de sesiones).</p>
+<p>https://classroom.google.com/c/ODYzMjM1ODgwMTQ1/a/ODYzMjY2Nzc4Njg3/details</p>
+<p> <img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+<p> <img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172419403-kdhh1y30u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>* Diana de Autoevaluación / Coevaluación del Grupo</strong><br /> </p>\n<p>- La diana (creada con Canva) quedará alojada en el Classroom del alumnado.</p>\n<p><a href=\"https://view.genially.com/69fc516d63141095bf09189e\" title=\"\">https://view.genially.com/69fc516d63141095bf09189e</a><br />https://classroom.google.com/c/ODYzMjM1ODgwMTQ1/a/ODYzMzgzMTY4ODUy/details<br /> <img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>\n<p>Instrucciones: Cada alumno/a debe desplazar la estrella correspondiente ( del 1 al 4) en cada área. El nivel 1, alrededor del centro de la diana (muy bajo) y el nivel 4 es el borde exterior (excelente). Luego comparamos lo que ha puesto cada componente del grupo, debatimos y ajustamos la diana, ya como grupo.</p>\n<p> </p>\n<p>Áreas de la Diana (Indicadores):<br />1.      Ritmo y Coordinación: ¿Hemos conseguido movernos a la vez y seguir el tempo de la música?</p>\n<p>2.      Creatividad y Materiales: ¿Hemos aportado pasos originales o usado materiales (balones, cintas, etc.) de forma creativa?</p>\n<p>3.      Uso de la Tecnología: ¿Hemos consultado el Padlet, buscado en YouTube o usado CapCut para mejorar la coreografía?</p>\n<p>4.      Trabajo en Equipo :¿Nos hemos escuchado, repartido roles y ayudado cuando alguien se perdía?</p>\n<p>5.      Actitud y Superación: ¿Hemos vencido la timidez y nos hemos esforzado por mejorar en cada ensayo?</p>\n<p> <br />Descripción de los Niveles para el Alumnado<br />Para que los alumnos sepan qué puntuación ponerse en cada eje, puedes facilitarles esta pequeña guía:</p>\n<p>Nivel<br />Descripción Visual<br />Significado<br />1. Muy bajo<br />Cerca del centro<br />No hemos trabajado en este aspecto o ha habido muchos conflictos.<br />2. Bajo<br />Primer anillo<br />Lo hemos intentado, pero nos ha costado mucho arrancar o coordinarnos.<br />3. Bueno<br />Segundo anillo<br />Hemos cumplido con la tarea y el resultado es satisfactorio para el grupo.<br />4. Excelente<br />Borde exterior<br />Hemos superado el reto, usado la tecnología y el grupo está muy unido.<br /> </p>\n<p>Momentos de Aplicación:<br />- En la sesión tercera: la Diana servirá al alumnado para \"ver\" en qué flojean y reaccionar a tiempo antes de la grabación final.</p>\n<p>-Tras la grabación final, para comparar y comprobar si las medidas adoptadas por el grupo has sido las adecuadas. Esta última la subimos al Padlet.</p>\n<p><strong>*Lo que voy a evaluar con la Rúbrica:</strong><br />·         La ejecución motriz: No se busca \"baile profesional\", sino la capacidad de coordinar el cuerpo con un ritmo externo y con el resto del grupo.</p>\n<p>·         La superación del rechazo inicial: Se valora positivamente la integración de materiales deportivos (como el bote de balón) para aquellos alumnos más tímidos.</p>\n<p>·         La alfabetización digital: El uso de herramientas (YouTube para inspirarse, CapCut para editar y Padlet para publicar) como medio para comunicar su trabajo.</p>\n<p>·         Colaboración La evidencia visual de que han colaborado para alcanzar un logro común (la coreografía terminada).</p>\n<p>Esta rúbrica la utilizaré durante el visionado de los vídeos en la Sesión 6, permitiendo dar un conocimiento de resultados inmediato.</p>\n<p>La rúbrica estará alojada en Classroom desde la primera sesión para que pueda ser consultada, sirva de orientación al alumnado y para resolver todas las dudas que puedan surgir desde el principio o durante el desarrollo de la situación de aprendizaje (en cualquiera de sesiones).</p>\n<p>https://classroom.google.com/c/ODYzMjM1ODgwMTQ1/a/ODYzMjY2Nzc4Njg3/details</p>\n<p> <img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>\n<p> <img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowlgsf2-zuve9g4qs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowlgsf2-zuve9g4qs</odePageId>
+      <odeBlockId>block-1778176899238-9zbbxnjd8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowlgsf2-zuve9g4qs</odePageId>
+          <odeBlockId>block-1778176899238-9zbbxnjd8</odeBlockId>
+          <odeIdeviceId>idevice-1778176899236-77c0m4iq0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>NOS MOVEMOS CON LA MÚSICA.  GUÍA DIDÁCTICA.</strong></p>
+<p>Esta situación de aprendizaje está dirigida a alumnado de 1º de ESO de Educación Física. Con ella buscamos una práctica inclusiva que permita disfrutar a todos y todas del movimiento y la música superando posibles reticencias iniciales motivadas por timidez o inseguridad ante este tipo de práctica. </p>
+<p><br /></p>
+<p>1.Título descriptivo: “Nos movemos con la música”.</p>
+<p>2. Centro de interés o temática: El cuerpo, el movimiento y la música.</p>
+<p>3. Nivel al que va dirigido: 1º de ESO.</p>
+<p>4. Temporalización aproximada: 6 sesiones.</p>
+<p>5. Materia o materias implicadas: Educación Física.</p>
+<p>6. Descripción general de lo que se pretende que el alumnado aprenda o trabaje.</p>
+<p>A través de la expresión corporal, crear, adaptar o copiar coreografías con o sin materiales uniendo música y coordinación grupal (grupos de 4 o 5 personal, con cierta flexibilidad) para presentar al resto de compañeros/as en la última sesión.</p>
+<p>7. Justificación de la elección sobre la base de la rutina de pensamiento elaborada en la tarea 1.1.</p>
+<p><strong>1. El proyecto:</strong></p>
+<p>1. Descripción </p>
+<p>He diseñado una SdA titulada “Nos movemos con la música” de 6 sesiones para 1º de ESO. El núcleo es la expresión corporal, integrando el cuerpo, el ritmo y el movimiento.</p>
+<p>2. Sentimientos </p>
+<p>Una parte del alumnado es reacio a participar en este tipo de actividades, la mayor parte de estos por timidez. Esto ocurre cuando piensan “el baile no es lo mío” les preocupa el qué dirán. Al planificarla lo tengo en cuenta y para evitar este rechazo inicial no les hablo de baile sino de música y movimiento, de ritmo y secuencias de movimiento. Les muestro, entre otros, vídeos de grupos que coordinan bote de balón de baloncesto desarrollando coreografías de diferentes niveles de dificultad y animo, a quienes lo deseen, opten por utilizar algún material deportivo o  no, en este sentido, en lugar de las coreografías más tradicionales para reducir o eliminar ese rechazo inicial. </p>
+<p>3. Evaluación </p>
+<p>·         Lo positivo: El alumnado elige los agrupamientos y el nivel de dificultad (en un mismo grupo no necesariamente todos/as tienen que hacer los mismos pasos y elementos),</p>
+<p>·         El reto: Conseguir que nadie se autoexcluya y crear un clima favorable a la actividad. </p>
+<p>4. Análisis </p>
+<p>Integrar música y movimiento de esta forma permite conectar al alumno con su identidad (sus gustos, intereses y forma de relacionarse con los demás) y mejorando también la coordinación grupal.</p>
+<p>5. Conclusión </p>
+<p>Utilizamos  Metodologías Activas (Aprendizaje Cooperativo) que contribuyen a una mayor interacción del alumnado en busca de una meta común, contribuyendo a una coevaluación continua. Quizás se podrían añadir más sesiones, pero creo que está bien con 6 para mantener el interés sin que decaiga la motivación antes del producto final.</p>
+<p><br /></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><strong>2. Justificación normativa de las Tareas :</strong></p>
+<p>Tarea 1. Visionado de vídeos de YouTube alojados en Padlet.<br />Criterio 1.6: Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 1. </p>
+<p>Tarea 2. Búsqueda de otras coreografías o músicas (que les puedan servir) en Youtube.<br />Criterio 1.6: Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 1. </p>
+<p>Tarea 3. Organización/creación de los grupos por parte de los propios alumnos/as.<br />Criterio 3.2: Colaborar en la práctica de diferentes producciones motrices, especialmente a través de juegos, para alcanzar el logro individual y grupal, participando en la toma de decisiones y asumiendo distintos roles asignados y responsabilidades. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 3. </p>
+<p>Tarea 4. Intercambio de propuestas entre los componentes de cada grupo con muestra de vídeos seleccionados y primeros ensayos.<br />Criterio 2.1: Participar en el proceso de creación de proyectos motores de carácter individual, cooperativo o colaborativo, estableciendo mecanismos para reconducir los procesos de trabajo, utilizando con ayuda estrategias de autoevaluación y coevaluación e iniciando actitudes de superación, crecimiento y resiliencia. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 2. </p>
+<p>Tarea 5. Prueba práctica de las distintas propuestas para descarte o elección directa.<br />Criterio 2.1: Participar en el proceso de creación de proyectos motores de carácter individual, cooperativo o colaborativo, estableciendo mecanismos para reconducir los procesos de trabajo. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 2. </p>
+<p>Tarea 6. Práctica de la coreografía elegida por partes, intercalada con ensayos completos. Grabación de ensayos.<br />Criterio 4.3: Utilizar intencionadamente y con progresiva autonomía el cuerpo como herramienta de expresión y comunicación a través de diversas técnicas expresivas, participando activamente en la creación y representación de composiciones individuales o colectivas con y sin base musical, prestando especial atención a la educación socio-afectiva y fomento de la creatividad. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 4. </p>
+<p>Tarea 7. Práctica y grabación de la coreografía completa.<br />Criterio 4.3: Utilizar intencionadamente y con progresiva autonomía el cuerpo como herramienta de expresión y comunicación a través de diversas técnicas expresivas, participando activamente en la creación y representación de composiciones individuales o colectivas con y sin base musical. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 4. </p>
+<p>Tarea 8. Selección de las grabaciones (ensayos y coreografía completa), edición y subida a Padlet para compartirlas. <br />Criterio 1.6: Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 1. </p>
+<p>Tarea 9. Muestra al grupo de clase de la grabación de las coreografías completas. Visionado de las coreografías completas.<br />Criterio 3.2: Colaborar en la práctica de diferentes producciones motrices, especialmente a través de juegos, para alcanzar el logro individual y grupal, participando en la toma de decisiones y asumiendo distintos roles asignados y responsabilidades. (Al compartir y visualizar el producto final se cierra el ciclo de colaboración y logro). Ubicación: Primer curso, Criterios de evaluación, Competencia específica 3. </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><strong>3. Asociación entre tareas y criterios de evaluación :</strong></p>
+<p> </p>
+<table width="929">
+<thead>
+<tr>
+<td width="273">
+<p><strong>TAREA </strong></p>
+</td>
+<td width="169">
+<p><strong>CRITERIO DE EVALUACIÓN</strong></p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Visionado de vídeos de YouTube alojados en Padlet.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 1.6:</strong> Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte.</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Búsqueda de otras coreografías o músicas (que les puedan servir) en Youtube.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 1.6:</strong> Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte.</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Organización/creación de los grupos por parte de los propios alumnos/as.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 3.2:</strong> Colaborar en la práctica de diferentes producciones motrices, especialmente a través de juegos, para alcanzar el logro individual y grupal, participando en la toma de decisiones y asumiendo distintos roles asignados y responsabilidades.</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Intercambio de propuestas entre los componentes de cada grupo con muestra de vídeos seleccionados  y primeros ensayos.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 2.1:</strong> Participar en el proceso de creación de proyectos motores de carácter individual, cooperativo o colaborativo, estableciendo mecanismos para reconducir los procesos de trabajo, utilizando con ayuda estrategias de autoevaluación y coevaluación e iniciando actitudes de superación, crecimiento y resiliencia.</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Prueba práctica de las distintas propuestas para descarte o elección directa.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 2.1:</strong> Participar en el proceso de creación de proyectos motores de carácter individual, cooperativo o colaborativo, estableciendo mecanismos para reconducir los procesos de trabajo, utilizando con ayuda estrategias de autoevaluación y coevaluación e iniciando actitudes de superación, crecimiento y resiliencia.</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Práctica de la coreografía elegida por partes, intercalada con ensayos completos. Grabación de ensayos.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 4.3:</strong> Utilizar intencionadamente y con progresiva autonomía el cuerpo como herramienta de expresión y comunicación a través de diversas técnicas expresivas, participando activamente en la creación y representación de composiciones individuales o colectivas con y sin base musical, prestando especial atención a la educación socio-afectiva y fomento de la creatividad.</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Práctica y grabación de la coreografía completa.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 4.3:</strong> Utilizar intencionadamente y con progresiva autonomía el cuerpo como herramienta de expresión y comunicación a través de diversas técnicas expresivas, participando activamente en la creación y representación de composiciones individuales o colectivas con y sin base musical.</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Selección de las grabaciones (ensayos y coreografía completa), edición y subida a Padlet para compartirlas</p>
+</td>
+<td width="169">
+<p><strong>Criterio 1.6:</strong> Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte.</p>
+</td>
+</tr>
+<tr>
+<td width="273">
+<p>Muestra al grupo de clase de la grabación de las coreografías completas. Visionado de las coreografías completas.</p>
+</td>
+<td width="169">
+<p><strong>Criterio 3.2:</strong> Colaborar en la práctica de diferentes producciones motrices, especialmente a través de juegos, para alcanzar el logro individual y grupal, participando en la toma de decisiones y asumiendo distintos roles asignados y responsabilidades.</p>
+</td>
+</tr>
+</thead>
+</table>
+<p><br /><br /> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><strong>4. Herramientas de evaluación.</strong></p>
+<p>* Diana de Autoevaluación / Coevaluación del Grupo<br /> </p>
+<p>- La diana (creada con Canva) quedará alojada en el Classroom del alumnado.</p>
+<p><a href="https://view.genially.com/69fc516d63141095bf09189e" title="">https://view.genially.com/69fc516d63141095bf09189e</a><br />https://classroom.google.com/c/ODYzMjM1ODgwMTQ1/a/ODYzMzgzMTY4ODUy/details<br /> </p>
+<p>Instrucciones: Cada alumno/a debe desplazar la estrella correspondiente ( del 1 al 4) en cada área. El nivel 1, alrededor del centro de la diana (muy bajo) y el nivel 4 es el borde exterior (excelente). Luego comparamos lo que ha puesto cada componente del grupo, debatimos y ajustamos la diana, ya como grupo.</p>
+<p> </p>
+<p>Áreas de la Diana (Indicadores):<br />1.      Ritmo y Coordinación: ¿Hemos conseguido movernos a la vez y seguir el tempo de la música?</p>
+<p>2.      Creatividad y Materiales: ¿Hemos aportado pasos originales o usado materiales (balones, cintas, etc.) de forma creativa?</p>
+<p>3.      Uso de la Tecnología: ¿Hemos consultado el Padlet, buscado en YouTube o usado CapCut para mejorar la coreografía?</p>
+<p>4.      Trabajo en Equipo :¿Nos hemos escuchado, repartido roles y ayudado cuando alguien se perdía?</p>
+<p>5.      Actitud y Superación: ¿Hemos vencido la timidez y nos hemos esforzado por mejorar en cada ensayo?</p>
+<p> <br />Descripción de los Niveles para el Alumnado<br />Para que los alumnos sepan qué puntuación ponerse en cada eje, puedes facilitarles esta pequeña guía:</p>
+<p>Nivel<br />Descripción Visual<br />Significado<br />1. Muy bajo<br />Cerca del centro<br />No hemos trabajado en este aspecto o ha habido muchos conflictos.<br />2. Bajo<br />Primer anillo<br />Lo hemos intentado, pero nos ha costado mucho arrancar o coordinarnos.<br />3. Bueno<br />Segundo anillo<br />Hemos cumplido con la tarea y el resultado es satisfactorio para el grupo.<br />4. Excelente<br />Borde exterior<br />Hemos superado el reto, usado la tecnología y el grupo está muy unido.<br /> </p>
+<p>Momentos de Aplicación:<br />- En la sesión tercera: la Diana servirá al alumnado para "ver" en qué flojean y reaccionar a tiempo antes de la grabación final.</p>
+<p>-Tras la grabación final, para comparar y comprobar si las medidas adoptadas por el grupo has sido las adecuadas. Esta última la subimos al Padlet.</p>
+<p>*Lo que voy a evaluar con la Rúbrica:<br />·         La ejecución motriz: No se busca "baile profesional", sino la capacidad de coordinar el cuerpo con un ritmo externo y con el resto del grupo.</p>
+<p>·         La superación del rechazo inicial: Se valora positivamente la integración de materiales deportivos (como el bote de balón) para aquellos alumnos más tímidos.</p>
+<p>·         La alfabetización digital: El uso de herramientas (YouTube para inspirarse, CapCut para editar y Padlet para publicar) como medio para comunicar su trabajo.</p>
+<p>·         Colaboración La evidencia visual de que han colaborado para alcanzar un logro común (la coreografía terminada).</p>
+<p>Esta rúbrica la utilizaré durante el visionado de los vídeos en la Sesión 6, permitiendo dar un conocimiento de resultados inmediato.</p>
+<p>La rúbrica estará alojada en Classroom desde la primera sesión para que pueda ser consultada, sirva de orientación al alumnado y para resolver todas las dudas que puedan surgir desde el principio o durante el desarrollo de la situación de aprendizaje (en cualquiera de sesiones).</p>
+<p>https://classroom.google.com/c/ODYzMjM1ODgwMTQ1/a/ODYzMjY2Nzc4Njg3/details</p>
+<p> <img src="{{context_path}}/content/resources/mceclip1.png" title="Rúbrica" width="890" height="474" alt="" /></p>
+<p> </p>
+<p> </p>
+<p><strong>5.     Créditos</strong></p>
+<p>© 2026. [Rafael Ruiz/IES Las Viñas]. </p>
+<p>Esta Situación de Aprendizaje "Nos movemos con la música" se publica bajo la licencia CC BY-SA 4.0. Eres libre de compartir y adaptar este material siempre que reconozcas la autoría y compartas tus versiones bajo esta misma licencia.</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778176899236-77c0m4iq0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>NOS MOVEMOS CON LA MÚSICA.  GUÍA DIDÁCTICA.</strong></p>\n<p>Esta situación de aprendizaje está dirigida a alumnado de 1º de ESO de Educación Física. Con ella buscamos una práctica inclusiva que permita disfrutar a todos y todas del movimiento y la música superando posibles reticencias iniciales motivadas por timidez o inseguridad ante este tipo de práctica. </p>\n<p><br /></p>\n<p>1.Título descriptivo: “Nos movemos con la música”.</p>\n<p>2. Centro de interés o temática: El cuerpo, el movimiento y la música.</p>\n<p>3. Nivel al que va dirigido: 1º de ESO.</p>\n<p>4. Temporalización aproximada: 6 sesiones.</p>\n<p>5. Materia o materias implicadas: Educación Física.</p>\n<p>6. Descripción general de lo que se pretende que el alumnado aprenda o trabaje.</p>\n<p>A través de la expresión corporal, crear, adaptar o copiar coreografías con o sin materiales uniendo música y coordinación grupal (grupos de 4 o 5 personal, con cierta flexibilidad) para presentar al resto de compañeros/as en la última sesión.</p>\n<p>7. Justificación de la elección sobre la base de la rutina de pensamiento elaborada en la tarea 1.1.</p>\n<p><strong>1. El proyecto:</strong></p>\n<p>1. Descripción </p>\n<p>He diseñado una SdA titulada “Nos movemos con la música” de 6 sesiones para 1º de ESO. El núcleo es la expresión corporal, integrando el cuerpo, el ritmo y el movimiento.</p>\n<p>2. Sentimientos </p>\n<p>Una parte del alumnado es reacio a participar en este tipo de actividades, la mayor parte de estos por timidez. Esto ocurre cuando piensan “el baile no es lo mío” les preocupa el qué dirán. Al planificarla lo tengo en cuenta y para evitar este rechazo inicial no les hablo de baile sino de música y movimiento, de ritmo y secuencias de movimiento. Les muestro, entre otros, vídeos de grupos que coordinan bote de balón de baloncesto desarrollando coreografías de diferentes niveles de dificultad y animo, a quienes lo deseen, opten por utilizar algún material deportivo o  no, en este sentido, en lugar de las coreografías más tradicionales para reducir o eliminar ese rechazo inicial. </p>\n<p>3. Evaluación </p>\n<p>·         Lo positivo: El alumnado elige los agrupamientos y el nivel de dificultad (en un mismo grupo no necesariamente todos/as tienen que hacer los mismos pasos y elementos),</p>\n<p>·         El reto: Conseguir que nadie se autoexcluya y crear un clima favorable a la actividad. </p>\n<p>4. Análisis </p>\n<p>Integrar música y movimiento de esta forma permite conectar al alumno con su identidad (sus gustos, intereses y forma de relacionarse con los demás) y mejorando también la coordinación grupal.</p>\n<p>5. Conclusión </p>\n<p>Utilizamos  Metodologías Activas (Aprendizaje Cooperativo) que contribuyen a una mayor interacción del alumnado en busca de una meta común, contribuyendo a una coevaluación continua. Quizás se podrían añadir más sesiones, pero creo que está bien con 6 para mantener el interés sin que decaiga la motivación antes del producto final.</p>\n<p><br /></p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p><strong>2. Justificación normativa de las Tareas :</strong></p>\n<p>Tarea 1. Visionado de vídeos de YouTube alojados en Padlet.<br />Criterio 1.6: Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 1. </p>\n<p>Tarea 2. Búsqueda de otras coreografías o músicas (que les puedan servir) en Youtube.<br />Criterio 1.6: Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 1. </p>\n<p>Tarea 3. Organización/creación de los grupos por parte de los propios alumnos/as.<br />Criterio 3.2: Colaborar en la práctica de diferentes producciones motrices, especialmente a través de juegos, para alcanzar el logro individual y grupal, participando en la toma de decisiones y asumiendo distintos roles asignados y responsabilidades. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 3. </p>\n<p>Tarea 4. Intercambio de propuestas entre los componentes de cada grupo con muestra de vídeos seleccionados y primeros ensayos.<br />Criterio 2.1: Participar en el proceso de creación de proyectos motores de carácter individual, cooperativo o colaborativo, estableciendo mecanismos para reconducir los procesos de trabajo, utilizando con ayuda estrategias de autoevaluación y coevaluación e iniciando actitudes de superación, crecimiento y resiliencia. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 2. </p>\n<p>Tarea 5. Prueba práctica de las distintas propuestas para descarte o elección directa.<br />Criterio 2.1: Participar en el proceso de creación de proyectos motores de carácter individual, cooperativo o colaborativo, estableciendo mecanismos para reconducir los procesos de trabajo. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 2. </p>\n<p>Tarea 6. Práctica de la coreografía elegida por partes, intercalada con ensayos completos. Grabación de ensayos.<br />Criterio 4.3: Utilizar intencionadamente y con progresiva autonomía el cuerpo como herramienta de expresión y comunicación a través de diversas técnicas expresivas, participando activamente en la creación y representación de composiciones individuales o colectivas con y sin base musical, prestando especial atención a la educación socio-afectiva y fomento de la creatividad. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 4. </p>\n<p>Tarea 7. Práctica y grabación de la coreografía completa.<br />Criterio 4.3: Utilizar intencionadamente y con progresiva autonomía el cuerpo como herramienta de expresión y comunicación a través de diversas técnicas expresivas, participando activamente en la creación y representación de composiciones individuales o colectivas con y sin base musical. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 4. </p>\n<p>Tarea 8. Selección de las grabaciones (ensayos y coreografía completa), edición y subida a Padlet para compartirlas. <br />Criterio 1.6: Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte. Ubicación: Primer curso, Criterios de evaluación, Competencia específica 1. </p>\n<p>Tarea 9. Muestra al grupo de clase de la grabación de las coreografías completas. Visionado de las coreografías completas.<br />Criterio 3.2: Colaborar en la práctica de diferentes producciones motrices, especialmente a través de juegos, para alcanzar el logro individual y grupal, participando en la toma de decisiones y asumiendo distintos roles asignados y responsabilidades. (Al compartir y visualizar el producto final se cierra el ciclo de colaboración y logro). Ubicación: Primer curso, Criterios de evaluación, Competencia específica 3. </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p><strong>3. Asociación entre tareas y criterios de evaluación :</strong></p>\n<p> </p>\n<table width=\"929\">\n<thead>\n<tr>\n<td width=\"273\">\n<p><strong>TAREA </strong></p>\n</td>\n<td width=\"169\">\n<p><strong>CRITERIO DE EVALUACIÓN</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Visionado de vídeos de YouTube alojados en Padlet.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 1.6:</strong> Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte.</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Búsqueda de otras coreografías o músicas (que les puedan servir) en Youtube.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 1.6:</strong> Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte.</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Organización/creación de los grupos por parte de los propios alumnos/as.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 3.2:</strong> Colaborar en la práctica de diferentes producciones motrices, especialmente a través de juegos, para alcanzar el logro individual y grupal, participando en la toma de decisiones y asumiendo distintos roles asignados y responsabilidades.</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Intercambio de propuestas entre los componentes de cada grupo con muestra de vídeos seleccionados  y primeros ensayos.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 2.1:</strong> Participar en el proceso de creación de proyectos motores de carácter individual, cooperativo o colaborativo, estableciendo mecanismos para reconducir los procesos de trabajo, utilizando con ayuda estrategias de autoevaluación y coevaluación e iniciando actitudes de superación, crecimiento y resiliencia.</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Prueba práctica de las distintas propuestas para descarte o elección directa.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 2.1:</strong> Participar en el proceso de creación de proyectos motores de carácter individual, cooperativo o colaborativo, estableciendo mecanismos para reconducir los procesos de trabajo, utilizando con ayuda estrategias de autoevaluación y coevaluación e iniciando actitudes de superación, crecimiento y resiliencia.</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Práctica de la coreografía elegida por partes, intercalada con ensayos completos. Grabación de ensayos.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 4.3:</strong> Utilizar intencionadamente y con progresiva autonomía el cuerpo como herramienta de expresión y comunicación a través de diversas técnicas expresivas, participando activamente en la creación y representación de composiciones individuales o colectivas con y sin base musical, prestando especial atención a la educación socio-afectiva y fomento de la creatividad.</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Práctica y grabación de la coreografía completa.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 4.3:</strong> Utilizar intencionadamente y con progresiva autonomía el cuerpo como herramienta de expresión y comunicación a través de diversas técnicas expresivas, participando activamente en la creación y representación de composiciones individuales o colectivas con y sin base musical.</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Selección de las grabaciones (ensayos y coreografía completa), edición y subida a Padlet para compartirlas</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 1.6:</strong> Identificar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte.</p>\n</td>\n</tr>\n<tr>\n<td width=\"273\">\n<p>Muestra al grupo de clase de la grabación de las coreografías completas. Visionado de las coreografías completas.</p>\n</td>\n<td width=\"169\">\n<p><strong>Criterio 3.2:</strong> Colaborar en la práctica de diferentes producciones motrices, especialmente a través de juegos, para alcanzar el logro individual y grupal, participando en la toma de decisiones y asumiendo distintos roles asignados y responsabilidades.</p>\n</td>\n</tr>\n</thead>\n</table>\n<p><br /><br /> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p><strong>4. Herramientas de evaluación.</strong></p>\n<p>* Diana de Autoevaluación / Coevaluación del Grupo<br /> </p>\n<p>- La diana (creada con Canva) quedará alojada en el Classroom del alumnado.</p>\n<p><a href=\"https://view.genially.com/69fc516d63141095bf09189e\" title=\"\">https://view.genially.com/69fc516d63141095bf09189e</a><br />https://classroom.google.com/c/ODYzMjM1ODgwMTQ1/a/ODYzMzgzMTY4ODUy/details<br /> </p>\n<p>Instrucciones: Cada alumno/a debe desplazar la estrella correspondiente ( del 1 al 4) en cada área. El nivel 1, alrededor del centro de la diana (muy bajo) y el nivel 4 es el borde exterior (excelente). Luego comparamos lo que ha puesto cada componente del grupo, debatimos y ajustamos la diana, ya como grupo.</p>\n<p> </p>\n<p>Áreas de la Diana (Indicadores):<br />1.      Ritmo y Coordinación: ¿Hemos conseguido movernos a la vez y seguir el tempo de la música?</p>\n<p>2.      Creatividad y Materiales: ¿Hemos aportado pasos originales o usado materiales (balones, cintas, etc.) de forma creativa?</p>\n<p>3.      Uso de la Tecnología: ¿Hemos consultado el Padlet, buscado en YouTube o usado CapCut para mejorar la coreografía?</p>\n<p>4.      Trabajo en Equipo :¿Nos hemos escuchado, repartido roles y ayudado cuando alguien se perdía?</p>\n<p>5.      Actitud y Superación: ¿Hemos vencido la timidez y nos hemos esforzado por mejorar en cada ensayo?</p>\n<p> <br />Descripción de los Niveles para el Alumnado<br />Para que los alumnos sepan qué puntuación ponerse en cada eje, puedes facilitarles esta pequeña guía:</p>\n<p>Nivel<br />Descripción Visual<br />Significado<br />1. Muy bajo<br />Cerca del centro<br />No hemos trabajado en este aspecto o ha habido muchos conflictos.<br />2. Bajo<br />Primer anillo<br />Lo hemos intentado, pero nos ha costado mucho arrancar o coordinarnos.<br />3. Bueno<br />Segundo anillo<br />Hemos cumplido con la tarea y el resultado es satisfactorio para el grupo.<br />4. Excelente<br />Borde exterior<br />Hemos superado el reto, usado la tecnología y el grupo está muy unido.<br /> </p>\n<p>Momentos de Aplicación:<br />- En la sesión tercera: la Diana servirá al alumnado para \"ver\" en qué flojean y reaccionar a tiempo antes de la grabación final.</p>\n<p>-Tras la grabación final, para comparar y comprobar si las medidas adoptadas por el grupo has sido las adecuadas. Esta última la subimos al Padlet.</p>\n<p>*Lo que voy a evaluar con la Rúbrica:<br />·         La ejecución motriz: No se busca \"baile profesional\", sino la capacidad de coordinar el cuerpo con un ritmo externo y con el resto del grupo.</p>\n<p>·         La superación del rechazo inicial: Se valora positivamente la integración de materiales deportivos (como el bote de balón) para aquellos alumnos más tímidos.</p>\n<p>·         La alfabetización digital: El uso de herramientas (YouTube para inspirarse, CapCut para editar y Padlet para publicar) como medio para comunicar su trabajo.</p>\n<p>·         Colaboración La evidencia visual de que han colaborado para alcanzar un logro común (la coreografía terminada).</p>\n<p>Esta rúbrica la utilizaré durante el visionado de los vídeos en la Sesión 6, permitiendo dar un conocimiento de resultados inmediato.</p>\n<p>La rúbrica estará alojada en Classroom desde la primera sesión para que pueda ser consultada, sirva de orientación al alumnado y para resolver todas las dudas que puedan surgir desde el principio o durante el desarrollo de la situación de aprendizaje (en cualquiera de sesiones).</p>\n<p>https://classroom.google.com/c/ODYzMjM1ODgwMTQ1/a/ODYzMjY2Nzc4Njg3/details</p>\n<p> <img src=\"{{context_path}}/content/resources/mceclip1.png\" title=\"Rúbrica\" width=\"890\" height=\"474\" alt=\"\" /></p>\n<p> </p>\n<p> </p>\n<p><strong>5.     Créditos</strong></p>\n<p>© 2026. [Rafael Ruiz/IES Las Viñas]. </p>\n<p>Esta Situación de Aprendizaje \"Nos movemos con la música\" se publica bajo la licencia CC BY-SA 4.0. Eres libre de compartir y adaptar este material siempre que reconozcas la autoría y compartas tus versiones bajo esta misma licencia.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowlgsf4-25g5vg1aa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>9. Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowlgsf4-25g5vg1aa</odePageId>
+      <odeBlockId>block-1778174327653-wuzdewupk</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowlgsf4-25g5vg1aa</odePageId>
+          <odeBlockId>block-1778174327653-wuzdewupk</odeBlockId>
+          <odeIdeviceId>idevice-1778174327652-xixe2up7w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CRÉDITOS:</p>
+<p><strong>Autor</strong>: Rafael Ruiz Ruiz</p>
+<p><strong> Fecha</strong>: Mayo de 2026</p>
+<p><strong> Materia</strong>: Educación Física </p>
+<p><strong>Curso de destino</strong>: 1º de ESO</p>
+<p><br /></p>
+<p><strong>© 2026. [Rafael Ruiz/IES Las Viñas].</strong> </p>
+<p>Esta Situación de Aprendizaje "Nos movemos con la música" se publica bajo la licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" title="">CC BY-SA </a>4.0. Eres libre de compartir y adaptar este material siempre que reconozcas la autoría y compartas tus versiones bajo esta misma licencia.</p>
+<p><strong title="Nos movemos con la música">NOTA</strong>: Descarga desde <a href="https://docs.google.com/document/d/12pr_VQlEBs8MZ4ltmQVWZxx5bOD7WKtr/edit?usp=sharing&ouid=100554434872895942393&rtpof=true&sd=true" title="Nos movemos con la música"><strong>aquí </strong></a>el archivo editable.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778174327652-xixe2up7w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CRÉDITOS:</p>\n<p><strong>Autor</strong>: Rafael Ruiz Ruiz</p>\n<p><strong> Fecha</strong>: Mayo de 2026</p>\n<p><strong> Materia</strong>: Educación Física </p>\n<p><strong>Curso de destino</strong>: 1º de ESO</p>\n<p><br /></p>\n<p><strong>© 2026. [Rafael Ruiz/IES Las Viñas].</strong> </p>\n<p>Esta Situación de Aprendizaje \"Nos movemos con la música\" se publica bajo la licencia <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.es\" title=\"\">CC BY-SA </a>4.0. Eres libre de compartir y adaptar este material siempre que reconozcas la autoría y compartas tus versiones bajo esta misma licencia.</p>\n<p><strong title=\"Nos movemos con la música\">NOTA</strong>: Descarga desde <a href=\"https://docs.google.com/document/d/12pr_VQlEBs8MZ4ltmQVWZxx5bOD7WKtr/edit?usp=sharing&ouid=100554434872895942393&rtpof=true&sd=true\" title=\"Nos movemos con la música\"><strong>aquí </strong></a>el archivo editable.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
